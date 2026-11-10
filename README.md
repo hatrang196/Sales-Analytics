@@ -88,10 +88,11 @@ Recommendations** dataset hosted on Kaggle.
                              such as age and club    age distribution,
                              membership status       membership analysis
 
-  `articles.csv`             Product metadata,       Product performance,
+ `articles.csv`              Product metadata,       Product performance,
                              including product type, category contribution,
                              category, color,        design analysis
-                             pattern, and department 
+                             pattern, and department                            
+
   --------------------------------------------------------------------------
 
 The original Kaggle dataset contains a broader transaction history. This
